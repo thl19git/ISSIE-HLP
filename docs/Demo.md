@@ -1,0 +1,11 @@
+## Demo Feature List
+- Rotating symbols 
+- Flipping symbols
+- Moving symbol ports
+- Connecting wires between symbols in several different orientations
+- Rotating symbols and wires together
+- Flipping symbols and wires together
+- Moving segments to show symbol bounds
+- Stickiness when moving segments
+- Moving symbol ports when wires are connected
+- Changing wire rendering style from top menu
